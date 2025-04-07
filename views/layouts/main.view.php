@@ -7,7 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/mobirec/styles/simple.css">
+  <link rel="stylesheet" href="/styles/simple.css">
   <title>Mobirec - Mobile Recharge Commission App</title>
 </head>
 
@@ -17,7 +17,7 @@
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="logo-container d-flex align-items-center gap-3">
-          <img src="/mobirec/images/logo.png" alt="Mobirec Logo" class="logo-img" style="height: 50px;">
+          <img src="/images/logo.png" alt="Mobirec Logo" class="logo-img" style="height: 50px;">
           <div>
             <h1 class="company-name text-info m-0">Mobirec</h1>
             <p class="company-tagline m-0 text-light">Mobile Recharge & Payments</p>
@@ -72,7 +72,7 @@
         <div class="col-lg-4 col-md-6">
           <div class="glass p-4 rounded-4 h-100 shadow-sm">
             <div class="d-flex align-items-center mb-3">
-              <img src="/mobirec/images/logo.png" alt="Logo" class="me-3" style="width: 50px; height: 50px;">
+              <img src="/images/logo.png" alt="Logo" class="me-3" style="width: 50px; height: 50px;">
               <div>
                 <h4 class="mb-0 text-gradient">Mobirec</h4>
                 <small class="text-light opacity-75">Mobile Recharge & Payments</small>

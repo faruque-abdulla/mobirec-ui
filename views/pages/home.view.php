@@ -10,7 +10,7 @@
   <div class="carousel-inner">
     <!-- Slide 1 -->
     <div class="carousel-item active">
-      <div class="d-flex align-items-center border-r" style="height: 450px; background: url('/mobirec/images/slide1.png') center center/cover no-repeat;">
+      <div class="d-flex align-items-center border-r" style="height: 450px; background: url('/images/slide1.png') center center/cover no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-md-6 text-start text-white ms-md-5">
@@ -30,7 +30,7 @@
 
     <!-- Slide 2 -->
     <div class="carousel-item">
-      <div class="d-flex align-items-center" style="height: 450px; background:  url('/mobirec/images/slide2.png') center center/cover no-repeat;">
+      <div class="d-flex align-items-center" style="height: 450px; background:  url('/images/slide2.png') center center/cover no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-md-6 text-start text-white ms-md-5">
@@ -50,7 +50,7 @@
 
     <!-- Slide 3 -->
     <div class="carousel-item">
-      <div class="d-flex align-items-center" style="height: 450px; background:  url('/mobirec/images/slide3.png') center center/cover no-repeat;">
+      <div class="d-flex align-items-center" style="height: 450px; background:  url('/images/slide3.png') center center/cover no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-md-6 text-start text-white ms-md-5">
